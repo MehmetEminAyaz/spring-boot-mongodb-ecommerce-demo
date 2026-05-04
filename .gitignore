@@ -1,0 +1,12 @@
+
+mongo_data/
+
+# Spring Boot 
+**/target/
+**/*.class
+**/.idea/
+**/.mvn/
+**/mvnw
+**/mvnw.cmd
+
+.DS_Store
